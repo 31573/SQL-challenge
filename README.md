@@ -2,6 +2,7 @@ Background
 
 The assignment is  to do a research project about people who were employed by the company during the 1980s and 1990s. There are six CSV files containing employee database from that period.
 Design the tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data. 
+
 Data Engineering
 
 1.	Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
@@ -9,6 +10,7 @@ o	Specify the data types, primary keys, foreign keys, and other constraints.
 o	For the primary keys, verify that the column is unique. Otherwise, create a composite keyLinks to an external site., which takes two primary keys to uniquely identify a row.
 o	Be sure to create the tables in the correct order to handle the foreign keys.
 2.	Import each CSV file into its corresponding SQL table.
+   
 Perform the following exercises
 
 1.	List the employee number, last name, first name, sex, and salary of each employee.
